@@ -156,7 +156,7 @@ export const PROJECTS = [
     desc: "Built a fault-tolerant distributed chat application using Flask, Redis Pub/Sub, and ZooKeeper, deployed on Kubernetes. Implemented real-time leader election and service discovery to achieve 99.9% message delivery reliability. Orchestrated clustered message broadcasting across 4 pods with seamless failover during simulated peak traffic, ensuring high availability and low-latency communication.",
     tech: ["Flask", "Redis Pub/Sub", "ZooKeeper", "Kubernetes"],
     links: [
-      { label: "GitHub", url: "https://github.com/ajinkyaambadkar/Distributed-Chat-Application" },
+      { label: "GitHub", url: "https://github.com/ajinkyaambadkar/DistributedChatSystem" },
     ],
   },
   {
@@ -164,7 +164,7 @@ export const PROJECTS = [
     title: "IdeaGenie: AI Innovation Prioritization Platform",
     desc: "Developed an end-to-end innovation-ranking platform that automates technical idea evaluation based on ROI and implementation constraints. Built a Flask backend with a React frontend, exposing REST APIs following OpenAPI specifications. Integrated a custom AI prioritization engine by fine-tuning a local LLM via Ollama, implementing Chain-of-Thought reasoning to transparently rank the top 3 innovation ideas.",
     tech: ["Python", "Flask", "React", "Ollama", "OpenAPI"],
-    links: [{ label: "GitHub", url: "https://github.com/ajinkyaambadkar/IdeaGenie" }],
+    links: [{ label: "GitHub", url: "https://github.com/ajinkyaambadkar/IdeaGeine" }],
   },
   {
     type: "Academic Project",
