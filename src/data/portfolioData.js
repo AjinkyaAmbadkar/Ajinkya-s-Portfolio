@@ -156,7 +156,7 @@ export const PROJECTS = [
     desc: "Built a fault-tolerant distributed chat application using Flask, Redis Pub/Sub, and ZooKeeper, deployed on Kubernetes. Implemented real-time leader election and service discovery to achieve 99.9% message delivery reliability. Orchestrated clustered message broadcasting across 4 pods with seamless failover during simulated peak traffic, ensuring high availability and low-latency communication.",
     tech: ["Flask", "Redis Pub/Sub", "ZooKeeper", "Kubernetes"],
     links: [
-      { label: "GitHub", url: "https://github.com/ajinkyaambadkar/DistributedChatSystem" },
+      { label: "GitHub", url: "https://github.com/AjinkyaAmbadkar/DistributedChatSystem" },
     ],
   },
   {
@@ -164,7 +164,7 @@ export const PROJECTS = [
     title: "IdeaGenie: AI Innovation Prioritization Platform",
     desc: "Developed an end-to-end innovation-ranking platform that automates technical idea evaluation based on ROI and implementation constraints. Built a Flask backend with a React frontend, exposing REST APIs following OpenAPI specifications. Integrated a custom AI prioritization engine by fine-tuning a local LLM via Ollama, implementing Chain-of-Thought reasoning to transparently rank the top 3 innovation ideas.",
     tech: ["Python", "Flask", "React", "Ollama", "OpenAPI"],
-    links: [{ label: "GitHub", url: "https://github.com/ajinkyaambadkar/IdeaGeine" }],
+    links: [{ label: "GitHub", url: "https://github.com/AjinkyaAmbadkar/IdeaGeine" }],
   },
   {
     type: "Academic Project",
@@ -172,7 +172,7 @@ export const PROJECTS = [
     desc: "Designed and built a full-stack flight analytics application with a React frontend and Python FastAPI backend, powered by MongoDB. Features include interactive flight data visualization with charts and statistics, full CRUD operations on flight records, and airport-level analytics dashboards. Built with an async architecture using Motor for non-blocking MongoDB queries, delivering a responsive aviation-themed UI for exploring and managing flight data.",
     tech: ["Python", "FastAPI", "MongoDB", "React"],
     links: [
-      { label: "GitHub", url: "https://github.com/ajinkyaambadkar/OpenAir" },
+      { label: "GitHub", url: "https://github.com/AjinkyaAmbadkar/OpenAir" },
     ],
   },
 ];
